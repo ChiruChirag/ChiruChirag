@@ -6,10 +6,7 @@
 ---
 ### <img src="https://media1.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif" width="80"> My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChiruChirag&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
-![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=ChiruChirag&theme=dracula)</br>
-<!-- Currently not working
-[![Chirag's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankush-003&bg_color=000000&color=ffffff&line=ffffff&point=ff7800&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
+
 ---
 ### :technologist: Learning :
 <div>
@@ -46,7 +43,7 @@
 
 ---
 
-### :speech_balloon: Languages :
+### :speech_balloon: Fluent In :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
